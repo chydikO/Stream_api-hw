@@ -1,4 +1,4 @@
-package org.itstep.home;
+package org.example;
 
 import java.util.List;
 import java.util.Random;
